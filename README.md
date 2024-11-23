@@ -6,6 +6,7 @@ My family has a hard time deciding what to get for dinner at least 2-3 times a w
 
 #User Guide
 What’s For Dinner?
+
 Search
 1.	Select the price category on you budget for the meal (can be blank if no preference)
 2.	Select the type of cuisine you want to narrow it down to  (can be blank if no preference)
