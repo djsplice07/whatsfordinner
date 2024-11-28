@@ -64,7 +64,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && empty($_GET['edit_id'])) {
         
         <!--<label for="google_map_link">Google Map Link:</label>
         <input type="url" name="google_map_link" id="google_map_link" required><br> -->
-		<input type="url" name="google_map_link" placeholder="Google Map Link" id="google_map_link" required /><br>
+		<input type="url" name="google_map_link" placeholder="Google Map Link" id="google_map_link" /><br>
         
         <!--<label for="menu_link">Menu Link (optional):</label>
         <input type="url" name="menu_link" id="menu_link"><br> -->
@@ -76,7 +76,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && empty($_GET['edit_id'])) {
 		
         <!--<label for="food_type_subcategory">Food Type Subcategory (optional):</label>
         <input type="text" name="food_type_subcategory" id="food_type_subcategory"><br> -->
-		<input type="text" name="food_type_subcategory" placeholder="Keywords (comma seperated)" id="food_type_subcategory" required /><br>
+		<input type="text" name="food_type_subcategory" placeholder="Keywords (comma seperated)" id="food_type_subcategory" /><br>
         
         <button class="btn btn-primary btn-block btn-large" type="submit">Add Restaurant</button>
     </form>
